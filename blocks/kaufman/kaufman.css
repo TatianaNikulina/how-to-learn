@@ -1,0 +1,10 @@
+.kaufman {
+  background-color: #1f1f1f;
+  color: white;
+  /* -----зачем все эти модификаторы _theme_dark, если в одном всего лишь месте нужно проставить цвет белый и не плодить код??--- */
+  padding-top: 90px;
+  padding-bottom: 90px;
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+}
