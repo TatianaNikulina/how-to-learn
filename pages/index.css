@@ -76,15 +76,3 @@
 @import url(../blocks/khan/__quote-author/khan__quote-author.css);
 @import url(../blocks/khan/__quote/khan__quote.css);
 @import url(../blocks/khan/__title/khan__title.css);
-
-@import url();
-
-/* удалить потом не забыть бы
-section,
-header,
-footer {
-  border: 2px solid purple;
-}
-div {
-  border: 1px solid green;
-} */
