@@ -1,6 +1,5 @@
 .resources__logo-zone {
-  width: 1080px;
-  margin-top: 80px;
+  width: 1100px;
   display: flex;
-  text-align: center;
+  margin: 80px auto 217px auto;
 }
