@@ -3,3 +3,12 @@
   max-width: 1600px;
   font-family: "Inter", "Arial", sans-serif;
 }
+/* 
+.root a {
+  opasity: ...  
+  transition: opasity 1s linear;
+}
+
+.root a:hover {
+  opasity: ...;
+} */

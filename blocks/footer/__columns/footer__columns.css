@@ -3,4 +3,5 @@
   min-height: 350px;
   display: flex;
   margin: auto;
+  /* justify-content: space-between; */
 }
