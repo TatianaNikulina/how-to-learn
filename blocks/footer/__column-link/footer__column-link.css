@@ -8,8 +8,14 @@
   font-weight: normal;
   margin-bottom: 10px;
   text-decoration: none;
+  opacity: 1;
+  transition: opasity 3s linear;
 }
 
 .footer__column-link:last-of-type {
   margin-bottom: 0;
+}
+
+.footer__column-link:hover {
+  opacity: 0.5;
 }

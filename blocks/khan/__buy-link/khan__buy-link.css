@@ -5,4 +5,10 @@
   text-decoration: none;
   color: #2f80ed;
   cursor: pointer;
+  opacity: 1;
+  transition: opasity 3s linear;
+}
+
+.khan__buy-link:hover {
+  opacity: 0.5;
 }

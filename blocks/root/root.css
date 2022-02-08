@@ -12,24 +12,3 @@
 /* .root a:hover {
   opacity: 0.5;
 } */
-
-.root .logo_place_header,
-.header__link,
-.feynman__link,
-.khan__buy-link,
-.logo_place_footer,
-.footer__column-link,
-.resources__logo {
-  opacity: 1;
-  transition: opasity 3s linear;
-}
-
-.root .logo_place_header:hover,
-.header__link:hover,
-.feynman__link:hover,
-.khan__buy-link:hover,
-.logo_place_footer:hover,
-.footer__column-link:hover,
-.resources__logo:hover {
-  opacity: 0.5;
-}
