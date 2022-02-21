@@ -1,37 +1,37 @@
-## Название:
+## Project Name:
 
-Проектная работа "How to learn"
-
----
-
-## Описание:
-
-статическая верстка
+Project "How to learn"
 
 ---
 
-## Использованные технологии:
+## Description:
+
+static layout
+
+---
+
+## Technologies:
 
 - HTML,
 - css,
-- методология БЭМ,
-- файловая структура Nested,
+- BEM methodology,
+- Nested file structure,
 - flexbox,
-- позиционирование,
+- positioning,
 - iframes,
-- виджеты,
-- анимации,
-- трансформации,
-- система контроля версий GitHub
+- widgets,
+- animations,
+- transformations,
+- GitHub version control system
 
 ---
 
-## Автор:
+## Author:
 
-Никулина Татьяна
+Nikulina Tatiana
 
 ---
 
-## Номер спринта:
+## Sprint number:
 
 1
